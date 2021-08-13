@@ -1,0 +1,7 @@
+name: TekTech
+main: com.peckot.mc.tektech.TekTechPlugin
+version: ${project.version}
+
+author: Pectics
+
+api: 他妈的我愣是不知道为什么这个参数删除了就得报错
