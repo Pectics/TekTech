@@ -1,6 +1,6 @@
 name: TekTech
 main: com.peckot.mc.tektech.TekTechPlugin
-version: ${project.version}
+version: 1.0-SNAPSHOT
 
 author: Pectics
 

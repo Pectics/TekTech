@@ -1,5 +1,12 @@
 package com.peckot.mc.tektech;
 
-public class TekTechPlugin {
-    
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class TekTechPlugin extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        saveDefaultConfig();
+    }
+
 }

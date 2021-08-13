@@ -6,7 +6,7 @@
 
   <groupId>com.peckot.mc.tektech</groupId>
   <artifactId>TekTech</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>TekTech</name>
   <!-- FIXME change it to the project's website -->
